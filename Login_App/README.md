@@ -1,16 +1,32 @@
-# myapp
+# Firebase Authentication App
+A simple Flutter authentication application integrated with Firebase Authentication.
+This project demonstrates how to implement secure user login using Email/Password authentication and Google Sign-In.
 
-A new Flutter project.
+# Features
 
-## Getting Started
+User authentication using Email and Password
 
-This project is a starting point for a Flutter application.
+Google Sign-In integration
+countinue with phone numner
 
-A few resources to get you started if this is your first Flutter project:
+Firebase backend for secure authentication
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Simple and clean Flutter UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Error handling for login and registration
+# Technologies Used
+
+Flutter
+
+Firebase Authentication
+
+Google Sign-In
+
+Dart
+# Login with Email
+<img width="1920" height="1440" alt="891shots_so" src="https://github.com/user-attachments/assets/a587d05c-1bc6-45c9-b704-3343cac39b50" />
+
+#  Login with Number
+
+
+<img width="1920" height="1440" alt="472shots_so" src="https://github.com/user-attachments/assets/c27ade14-bc35-4c2d-bc77-bef0dedec5b4" />
